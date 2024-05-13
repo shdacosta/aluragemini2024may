@@ -1,7 +1,7 @@
 # aluragemini2024may
 Curso Alura Gemini Maio 2024
 
-# Pipenv
+# Gestão de pacotes: Pipenv
 * https://pypi.org/project/pipenv/ 
 * https://pipenv.pypa.io/en/latest/
 * https://realpython.com/pipenv-guide/
